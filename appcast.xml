@@ -3,12 +3,12 @@
     <channel>
         <title>Hidini</title>
         <item>
-            <title>1.01</title>
-            <pubDate>Thu, 23 Jul 2026 17:29:23 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.01</sparkle:shortVersionString>
+            <title>1.02</title>
+            <pubDate>Thu, 23 Jul 2026 18:11:11 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.01/Hidini-1.01.dmg" length="3504853" type="application/octet-stream" sparkle:edSignature="Af5C04TYJOrxlKO7Jr6q7EmN8T1lE23jIiW0X9PbNKFmuEDlyVCNP6EUBLZLBXFpAnEn4qBhU28nQIo2o7VxCw=="/>
+            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.02/Hidini-1.02.dmg" length="3508119" type="application/octet-stream" sparkle:edSignature="F0l0MAdKzpVNVdxi0rT5cZIbxIfmQ6WzWyO8BkMqzPgGggPIhdI6uRhQ6Sf5pxIRxRzd1y/v4U7TK+iy8gOyDA=="/>
         </item>
     </channel>
 </rss>
