@@ -3,12 +3,27 @@
     <channel>
         <title>Hidini</title>
         <item>
+            <title>1.10</title>
+            <pubDate>Tue, 18 Aug 2026 11:23:22 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini-1.10.dmg" length="4095357" type="application/octet-stream" sparkle:edSignature="MY8dU8nZDfNpzv0OOHdNKpFbG8ZKLm5oT2qskLpLzNP49TgH+opZs2kWCSYyc0NP5s0sH4mb8sKoCOdZZWt4DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini11-10.delta" sparkle:deltaFrom="10" length="477346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JL23+2ok9iEex3ABdA9TraS6YGxNTX0NDCBjdnljANO7HMa8w752xAT7wBiU63bFkUh3vAy6v0lIDjTTwgB+CQ=="/>
+                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini11-9.delta" sparkle:deltaFrom="9" length="680678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WZAfuCPuK4dvguGkNdeoLVaLGXho1ltukau7ORh8gT1hEDNQwbEKgp8g4dWnxoOsUVVWc8OASQQEFFN1yzggBQ=="/>
+                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini11-8.delta" sparkle:deltaFrom="8" length="832102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GV+hdLzG7g4a9SkF2lm02I7p4MKdM+zwoH5VzYFFwQsFrQFXCWg0C08y+yov+WjIqKcG+ixt9ohc3r6WGEadAg=="/>
+                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini11-7.delta" sparkle:deltaFrom="7" length="944402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ogCxhUYN/HAuZnUsRjDv5AMTHhkSDQRpp4aiPtXn0coPRq2WZ9wS1hHbrIJX66vaqw+uXS3Q5BVwLopCTt92Bg=="/>
+                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini11-6.delta" sparkle:deltaFrom="6" length="941794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7QJzDPAvJReqoakrVMZ8EtMlHYbGFnOUsTxObq2j0ByOMNum1KaMdR4oI3fwdo1BI/XU/NxrCFixa0EaeZxTAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.09</title>
             <pubDate>Mon, 17 Aug 2026 16:03:13 +0200</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.09</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.09/Hidini-1.09.dmg" length="4054978" type="application/octet-stream" sparkle:edSignature="MxaIeWMb4W/UqhI1RbTBBF5geA4QRlwYQ3o1KdhG+cXubkeEWrH06jw+BmZyX7FZPwm6TUlo42OLaH4g0w13Cg=="/>
+            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini-1.09.dmg" length="4054978" type="application/octet-stream" sparkle:edSignature="MxaIeWMb4W/UqhI1RbTBBF5geA4QRlwYQ3o1KdhG+cXubkeEWrH06jw+BmZyX7FZPwm6TUlo42OLaH4g0w13Cg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.09/Hidini10-9.delta" sparkle:deltaFrom="9" length="570054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PLpwopszq/dL3zbTRExEfPClh4MtFa5xxLLAKkjG6BDnhgXXAo0kqgal0OzFBSryQ5DrOMWWR6nZVwJp2aUhAg=="/>
                 <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.09/Hidini10-8.delta" sparkle:deltaFrom="8" length="785758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v0vfV/OnfRuHw0EIdkR+vlRK2y23bfunVC/MeyYmLWZt7QWPP2aDt5BvrT2HLxUtM4R9iGkMglMaXFMTNIUvDA=="/>
@@ -23,27 +38,13 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.08</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.09/Hidini-1.08.dmg" length="3909077" type="application/octet-stream" sparkle:edSignature="gvxJMeZQztSlGYmkYk+uvxBf8Z1rdqLTB6/Z0CTd1ZxnEN/C8FQwzrHkjF7cEBi3WV/lZox0YQhfhcIlEtvvDg=="/>
+            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.10/Hidini-1.08.dmg" length="3909077" type="application/octet-stream" sparkle:edSignature="gvxJMeZQztSlGYmkYk+uvxBf8Z1rdqLTB6/Z0CTd1ZxnEN/C8FQwzrHkjF7cEBi3WV/lZox0YQhfhcIlEtvvDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.08/Hidini9-8.delta" sparkle:deltaFrom="8" length="603030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6Oq/chDapXuCCdie88vJQ0tts0XrF+bUmWHkfJ2nKUpKxCYHL5EFlenjEfTY/gNJH/c5ZvGaDXD5MUPiQsoAAg=="/>
                 <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.08/Hidini9-7.delta" sparkle:deltaFrom="7" length="714066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aBhkjPQjtxmZmx18O9BMQJC8dEBX1Cg/25WK1ErZ33q8QU2J13btacjx/IbpF7tnq8E9dVgoF5UDHcqvj8s+BA=="/>
                 <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.08/Hidini9-6.delta" sparkle:deltaFrom="6" length="713582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F5FmJzqh+lkplzQ/FnRWaKUgDRnnZgV9cJeUzUXp1Pt9zOQfrL/7+C+Axuk7/dawdXL4FdgMLKlwYD/gkSzXBg=="/>
                 <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.08/Hidini9-5.delta" sparkle:deltaFrom="5" length="758242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Tu9hTroykngvE8c4SGj/IwnlYY6IFqWaFAHAzoWSOYKw3PYFRGeew5e0la05gTSKuFK+8gAqTPWoR0N+/KbhAA=="/>
                 <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.08/Hidini9-4.delta" sparkle:deltaFrom="4" length="762858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NTxaEWD/7T9pDN5v7dACtLYC/0pOQC08Uxruw6I/U70Cw7lZ3SWWCnc6dVxbU/dMCfKlCSJn7ZyvqH1rwxmlDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.07</title>
-            <pubDate>Wed, 29 Jul 2026 10:21:25 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.07</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.09/Hidini-1.07.dmg" length="3759578" type="application/octet-stream" sparkle:edSignature="tnGAYzNvz0N+51Gw4Q2PPmEI75zV6ykawNKAEIaXW2FolQHfKLDHzKuaiPGhouXDE9s4TpBxK04ZmNKHXxSfAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.07/Hidini8-7.delta" sparkle:deltaFrom="7" length="122150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5kDXmq5yag87Rx3uoPUWTldGXmHDzb6M90tUEuYzzSou0DiIRG+ohPSUHxWMwoJX5KDndJUXVDGgNkCJchN6Bw=="/>
-                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.07/Hidini8-6.delta" sparkle:deltaFrom="6" length="122450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p6Vjc5zYxH1ge6iirBpEWwAjdTHIeApqLVDt8NTcnu9C17iZwxoH7KWP3W23i4MmbXdY9mU85KwtkeRCcEwGAg=="/>
-                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.07/Hidini8-5.delta" sparkle:deltaFrom="5" length="468514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IxoEidGPdjMieWTqRZPAKtlgCyTvf1mduM2J6YAlw/ZG6s9OIVHJFkDZsgqlBG4/h8b6yb+azleQ3IDz1tEGBw=="/>
-                <enclosure url="https://github.com/paulwalczewski/hidini-releases/releases/download/v1.07/Hidini8-4.delta" sparkle:deltaFrom="4" length="562918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YeII3wxK7kXATlsd6NMJOUJEatO5UjZhci64qOQ545NeVKv2BgJwHPbQkPN6BpgWtTrffnS2L31Ie6WcpGdODw=="/>
             </sparkle:deltas>
         </item>
     </channel>
